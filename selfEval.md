@@ -1,8 +1,8 @@
 # Self Evaluation
 
-1. How confident do you feel in your understanding and fluency with the comparison operators?
-1. How confident do you feel in your understanding and fluency with the logical operators?
-1. How confident do you feel in your understanding and fluency with the if statements?
-1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
-1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-1. What questions do you still have? How will you get the answers you need?
+1. How confident do you feel in your understanding and fluency with the comparison operators? **I feel a solid 4.5/5 confident with the comparison evaluators, I almost forgot to use `===` instead of `=` at one point but caught myself. It helps that they're almost all familiar from basic mathematical expressions.**
+1. How confident do you feel in your understanding and fluency with the logical operators? **I feel also 4.5/5 confident with the logical evaluators, they make logical sense. I did make a similar mistake as above by only typing `&` instead of `&&` at one point, but fixed it before finishing the line.**
+1. How confident do you feel in your understanding and fluency with the if statements? **I feel less confident with those overall, probably a 3/5? The logic makes perfect sense but the syntax isn't as familiar so I had to check my notes and exercises from the class session to ensure that I had everything typed out correctly.**
+1. How much time did you spend on this lesson/topic? How did that line up with your time estimate? **On my own time outside of class, I spent maybe 30-45 minutes? I got up in the middle to grab dinner, so my mental clock got interrupted. I expected the assignment to take a lot longer because I thought more production would be expected of me, but the assignment itself wasn't as beefy as I feared.**
+1. What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? **I still need to practice JavaScript syntax, but I think that will come to me more naturally with time as I complete further work for the course. The pairing assignments will also be beneficial for practicing the physical typing and the mental production with the aid of someone else's point of view. I don't think I need to adjust my calendar much, except to reflect the actual time of today's/upcoming assignments as I complete them. For now I feel like I'm tracking okay with the approximate hour I budgeted for most Mod 0 assignments.**
+1. What questions do you still have? How will you get the answers you need? **I don't think I have explicit questions at this time, as those were answered during the live session by Kim. He also provided us with more information on how to effectively use Google to answer questions as they arise, and I feel better equipped to do so.**
